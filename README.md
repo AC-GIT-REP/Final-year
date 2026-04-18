@@ -359,7 +359,7 @@ Make sure no other Streamlit app is running on port 8501.
 ## 👨‍💻 Author
 
 **Anshuman Chowdhury**, **Argha Dutta**  
----
+, **Bishop Debnath**
 
 ## 📄 License
 
